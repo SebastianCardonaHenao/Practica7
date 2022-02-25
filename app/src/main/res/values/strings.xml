@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">P72022SebastianCH</string>
+    <string name="unknown_error">Error desconocido</string>
+    <string name="no_internet_connection">No se ha podido establecer conexión con Internet, copruebe su señal.</string>
+    <string name="sign_in_cancelled">Usted ha cancelado el inicio de sesión, por favor, vuelva a intentarlo para continuar.</string>
+    <string name="sign_out">Se ha cerrado sesión correctamente.</string>
+    <string name="ver_empresa">Ver empresa</string>
+    <string name="logout">logOut</string>
+    <string name="info_conf">Información de la conferencia: </string>
+    <string name="fehca">Fecha: </string>
+    <string name="horario">Horario: </string>
+    <string name="sala">Sala :</string>
+    <string name="doc_error">Error getting documents: </string>
+    <string name="conferencias">Conferencias:</string>
+    <string name="chat">Escribe un mensaje...</string>
+</resources>

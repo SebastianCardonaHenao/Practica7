@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "904758486691",
+    "project_id": "p7-2022-sebastianch",
+    "storage_bucket": "p7-2022-sebastianch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904758486691:android:67aef069ed05fae8fe0116",
+        "android_client_info": {
+          "package_name": "practica5.sebastiancardonahenao.iesseveroochoa.net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904758486691-hhg3k3jrv4f9g4a82mm23736bnnuccqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgaM_3yAlQyFJhok7oHSOgRayBEDKyZu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904758486691-hhg3k3jrv4f9g4a82mm23736bnnuccqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904758486691:android:70bc75a68ad5f7e5fe0116",
+        "android_client_info": {
+          "package_name": "practica5.sebastiancardonahenao.iesseveroochoa.p72022sebastianch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904758486691-hhg3k3jrv4f9g4a82mm23736bnnuccqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgaM_3yAlQyFJhok7oHSOgRayBEDKyZu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904758486691-hhg3k3jrv4f9g4a82mm23736bnnuccqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
